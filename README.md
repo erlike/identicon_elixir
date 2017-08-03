@@ -4,4 +4,4 @@
 
 ### Usage
 ###### -> iex -S mix
-###### -> Identicon.main("string")
+###### iex(1)> Identicon.main("string")
