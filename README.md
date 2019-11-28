@@ -1,4 +1,4 @@
-# Identicon generator for ELIXIR
+# Identicon generator in ELIXIR
 
 ###### Identicon_Elixir is a program which generate an identicon image based on a string.
 
